@@ -1,0 +1,112 @@
+[
+    {
+      "id": "1",
+      "origen_x": 0,
+      "origen_y": 100,
+      "destino_x": 100,
+      "destino_y": 100,
+      "velocidad": 90.0,
+      "red": 200,
+      "green": 200,
+      "blue": 100
+    },
+    {
+      "id": "2",
+      "origen_x": 0,
+      "origen_y": 100,
+      "destino_x": 200,
+      "destino_y": 150,
+      "velocidad": 90.0,
+      "red": 200,
+      "green": 60,
+      "blue": 100
+    },
+    {
+      "id": "3",
+      "origen_x": 100,
+      "origen_y": 100,
+      "destino_x": 300,
+      "destino_y": 0,
+      "velocidad": 45.0,
+      "red": 50,
+      "green": 200,
+      "blue": 100
+    },
+    {
+      "id": "4",
+      "origen_x": 300,
+      "origen_y": 0,
+      "destino_x": 200,
+      "destino_y": 150,
+      "velocidad": 20.0,
+      "red": 100,
+      "green": 240,
+      "blue": 180
+    },
+    {
+      "id": "5",
+      "origen_x": 400,
+      "origen_y": 200,
+      "destino_x": 300 ,
+      "destino_y": 0,
+      "velocidad": 50.0,
+      "red": 110,
+      "green": 240,
+      "blue": 230
+    },
+    {
+      "id": "6",
+      "origen_x": 300,
+      "origen_y": 300,
+      "destino_x": 200,
+      "destino_y": 150,
+      "velocidad": 200.0,
+      "red": 10,
+      "green": 222,
+      "blue": 110
+    },
+    {
+      "id": "7",
+      "origen_x": 400,
+      "origen_y": 200,
+      "destino_x": 300,
+      "destino_y": 300,
+      "velocidad": 100.0,
+      "red": 5,
+      "green": 88,
+      "blue": 90
+    },
+    {
+      "id": "8",
+      "origen_x": 300,
+      "origen_y": 300,
+      "destino_x": 0,
+      "destino_y": 100,
+      "velocidad": 205.0,
+      "red": 70,
+      "green": 240,
+      "blue": 180
+    },
+    {
+      "id": "9",
+      "origen_x": 300,
+      "origen_y": 0,
+      "destino_x": 0,
+      "destino_y": 50,
+      "velocidad": 45.0,
+      "red": 222,
+      "green": 163,
+      "blue": 98
+    },
+    {
+      "id": "10",
+      "origen_x": 0,
+      "origen_y": 50,
+      "destino_x": 0,
+      "destino_y": 100,
+      "velocidad": 45.0,
+      "red": 80,
+      "green": 80,
+      "blue": 80
+    }
+  ]
